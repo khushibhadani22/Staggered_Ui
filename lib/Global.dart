@@ -117,30 +117,30 @@ class Global {
   ];
   static List<Map<String, dynamic>> heritage = [
     {
-      'name': "Kutubminar",
+      'name': "Kutub Minar",
       'image':
           'https://images.unsplash.com/photo-1632426237957-5ea14aae7100?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cXV0dWIlMjBtaW5hcnxlbnwwfHwwfHw%3D&w=1000&q=80',
-      'name1': "Taj Mahal",
+      'name1': "Alai Minar",
       'image1':
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnShT1OU-aTNMwgL55ah-JCAtAkI75l0IZIA&usqp=CAU',
-      'name3': "Gate Way of India",
-      'image3':
-          'https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/Gateway-to-India_0.jpg',
+          'https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Alai-Minar-Delhi.jpg',
       'name2': "Stone",
       'image2':
           'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H4K5ZQDAK7wnGUxuCZHq7teHi_HbLMln-A&usqp=CAU',
+      'name3': "Zulta Minara",
+      'image3':
+          'https://www.holidify.com/images/cmsuploads/compressed/15225738140_cddeeded42_b_20170405165221.jpg',
       'name4': "The Hands",
       'image4':
           'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFko8XocHNkmNpwlLFwyYZfdKwt2YPC9paA&usqp=CAU',
       'name5': "Red Fort",
       'image5':
           'https://images.indianexpress.com/2018/06/red-fort-759-getty-images.jpg',
-      'name6': "Step Well",
+      'name6': "Fathe Burj",
       'image6':
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-XNeUDmAO9GmgTVRW3bfKijTLr-stjd63w&usqp=CAU',
-      'name7': "Zulta Minara",
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwsu_qKDcbx6D4jdJf2Ur_HnF5o49H0bRXuT6vsdmdNzS1We1xdiMQunxD7L6ROLGyHY&usqp=CAU',
+      'name7': "Gate Way of India",
       'image7':
-          'https://www.holidify.com/images/cmsuploads/compressed/15225738140_cddeeded42_b_20170405165221.jpg',
+          'https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/Gateway-to-India_0.jpg',
     }
   ];
   static List<Map<String, dynamic>> temple = [
